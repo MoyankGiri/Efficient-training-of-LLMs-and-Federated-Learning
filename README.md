@@ -1,4 +1,15 @@
 # Efficient-training-of-LLMs-and-Federated-Learning
+
+## Project Acknowledgment
+
+This project was **independently carried out by me** under the direct supervision of esteemed professors at  
+- **The Ohio State University, USA (On-site)**  
+- **Indian Institute of Technology (IIT) Bhilai, India (On-site)**  
+
+The collaboration between these two globally recognized institutions provided invaluable academic guidance and ensured that the work meets international research standards.  
+
+📌 This dual mentorship underscores the **credibility, rigor, and global relevance** of the project, reflecting both cutting-edge research exposure and hands-on contributions from my side.
+
 ## License
 This report is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
