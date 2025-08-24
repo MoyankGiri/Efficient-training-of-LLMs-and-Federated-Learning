@@ -1,4 +1,9 @@
 # Efficient-training-of-LLMs-and-Federated-Learning
+## License
+This report is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+📌 This means you are free to **read and share the report with proper credit**, but you **cannot modify it, use it commercially, or access the confidential source code** that accompanies the project.
+
 ## ABSTRACT
 Efficient training of deep learning models and Large Language Models (LLMs) is critical
 for scalable and privacy-preserving artificial intelligence, yet existing methods struggle with
